@@ -14,8 +14,8 @@
 
 **关键词：航天用塑封器件，超声波扫描，图像识别，代价敏感**
 
-<div align=center><img width="700" height="600" src="https://github.com/PrideLee/Image-Recognition-Application-for-Ultrasonic-Images-of-Plastic-Packaging-IC/blob/master/reform_1.png"/></div>
+<div align=center><img width="700" height="500" src="https://github.com/PrideLee/Image-Recognition-Application-for-Ultrasonic-Images-of-Plastic-Packaging-IC/blob/master/reform_1.png"/></div>
 
-<div align=center><img width="700" height="550" src="https://github.com/PrideLee/Image-Recognition-Application-for-Ultrasonic-Images-of-Plastic-Packaging-IC/blob/master/tool.png"/></div>
+<div align=center><img width="700" height="400" src="https://github.com/PrideLee/Image-Recognition-Application-for-Ultrasonic-Images-of-Plastic-Packaging-IC/blob/master/tool.png"/></div>
 
 
